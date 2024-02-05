@@ -1,0 +1,43 @@
+.vagas {
+    margin: 0 auto;
+}
+
+
+.titulo-2 {
+    margin-left: 12em;
+    margin-top: 5em;
+    margin-bottom: 0;
+    font-size: 20px;
+    font-weight: 500;
+    font-family: var(--fonte-principal);
+    color: var(--grey);
+    
+}
+
+
+.descrição-vaga {
+    margin-top: 2em;
+    margin-left: 15em;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: var(--fonte-principal);
+    color: var(--grey);
+}
+
+.tempo-vaga {
+    margin-top: 2em;
+    margin-left: 16.9em;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: var(--fonte-principal);
+    color: var(--grey-2);
+}
+
+.salario-vaga {
+    margin-left: 0.5em;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: var(--fonte-principal);
+    color: var(--grey-2);
+}
+

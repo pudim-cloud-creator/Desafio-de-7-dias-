@@ -1,0 +1,35 @@
+.texto-3 {
+    align-items: center;
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 6em;
+    text-align: center;
+    margin-bottom: 0.5em;
+    color: var(--vermelho-principal);
+    font-family: var(--fonte-principal);
+    
+}
+
+.sub-titulo-2 {
+    align-items: center;
+    margin-left: 7em;
+    font-size: 48px;
+    font-weight: 600;
+    font-family: var(--fonte-principal);
+    color: var(--grey);
+}
+
+.paragrafo-3 {
+    text-align: center;
+    align-items: center;
+    margin-top: 0.5em;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: var(--fonte-principal);
+    color: var(--grey-2);
+}
+
+.imagem-reunião {
+    margin-left: 5em;
+    margin-top: 5em;
+}
